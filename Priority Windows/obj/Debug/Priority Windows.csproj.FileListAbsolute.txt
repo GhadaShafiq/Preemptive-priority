@@ -1,0 +1,19 @@
+c:\users\dell\documents\visual studio 2012\Projects\Priority Windows\Priority Windows\bin\Debug\Priority Windows.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority Windows.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority_Windows.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority_Windows.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority Windows.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\bin\Debug\Priority Windows.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\bin\Debug\Priority Windows.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority Windows.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Priority Windows\Priority Windows\obj\Debug\Priority Windows.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority Windows.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority_Windows.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority_Windows.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority Windows.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority Windows.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority Windows.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\obj\Debug\Priority Windows.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\bin\Debug\Priority Windows.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\bin\Debug\Priority Windows.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\PrioritySchedulingProjectWindows\Priority Windows\bin\Debug\Priority Windows.pdb
